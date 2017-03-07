@@ -1,0 +1,4 @@
+run following command in tensorflow docker container :
+python train.py
+Filling queue with 20000 CIFAR images before starting to train. This will take a few minutes.
+2017-01-03 07:01:34.419454: step 0, loss = 2.45 (2.1 examples/sec; 61.204 sec/batch)
